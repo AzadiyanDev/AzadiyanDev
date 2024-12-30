@@ -16,4 +16,5 @@ I'm deeply committed to continuous learning, especially in **architecture best p
 ### 🎯 Let’s Connect
 If you're interested in collaborating, discussing innovative ideas, or connecting on all things tech and beyond, feel free to reach out!
 
- [Email](mailto:azadiyan.dev@gmail.com)
+ [Email](mailto:azadiyan.dev@gmail.com) |  [Telegram](https://t.me/azadiyan_art)
+
