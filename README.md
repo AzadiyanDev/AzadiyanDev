@@ -1,20 +1,71 @@
-# Hello, World! 👋 I'm [AZADIYAN]
+<p align="center">
+  <img src="[لینک بنر شما در اینجا قرار می‌گیرد - مثلاً یک عکس با ابعاد 1280x400]" alt="Header Banner"/>
+</p>
 
-Driven by a deep commitment to innovation and efficiency, I’m a **full-stack developer** specializing in **.NET** with a strong foundation in building scalable, high-performance web and application ecosystems. As an **ENTJ**, I thrive on turning ambitious ideas into tangible, user-centered solutions that blend technical precision with an exceptional user experience.
+<h1 align="center">Hi there, I'm [AZADIYAN] 👋</h1>
+<h3 align="center">A Full-Stack Architect Crafting Robust Digital Ecosystems</h3>
 
-### 🚀 What I Do
-I bring a strategic mindset and technical expertise to every challenge, whether it’s refining back-end architectures or creating intuitive, responsive front-end designs. My focus is on delivering seamless digital solutions that empower users and drive value.
+<p align="center">
+  <a href="mailto:[ایمیل شما]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/[آیدی تلگرام شما]" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack
-- **Languages & Frameworks**: .NET | ASP.NET MVC | JavaScript | HTML/CSS
-- **Database Management**: SQL Server
-- **Tools & IDEs**: Visual Studio Code, GitHub
+---
 
-### 🌱 Always Evolving
-I'm deeply committed to continuous learning, especially in **architecture best practices**, **advanced backend optimizations**, and **psychology in leadership**. I’m passionate about staying at the cutting edge of technology and leveraging it to create powerful, sustainable applications.
+<p align="left">
+  As an <strong>ENTJ</strong> and a full-stack developer specializing in <strong>.NET</strong>, I transform ambitious ideas into scalable, high-performance applications. My passion lies in engineering elegant back-end architectures and intuitive front-end experiences that deliver tangible value.
+</p>
 
-### 🎯 Let’s Connect
-If you're interested in collaborating, discussing innovative ideas, or connecting on all things tech and beyond, feel free to reach out!
+## 🚀 My Core Expertise
 
- [Email](mailto:azadiyan.dev@gmail.com) |  [Telegram](https://t.me/azadiyan_art)
+I architect and build seamless digital solutions, blending technical precision with a user-centric mindset. My focus is on creating systems that are not just functional, but also efficient, scalable, and a pleasure to use.
 
+## 🛠️ My Tech Arsenal
+
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="net" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="mssql" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visualstudio" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
+
+## 🌱 Current Learning Focus
+
+I am committed to lifelong learning and am currently diving deeper into:
+-   **Advanced Architectural Patterns**
+-   **High-Performance Backend Optimization**
+-   **The Psychology of Effective Leadership**
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[یوزرنیم گیت‌هاب شما]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[یوزرنیم گیت‌هاب شما]&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+## 🎯 Let's Collaborate!
+
+I'm always open to discussing innovative projects, technology trends, or collaboration opportunities. Feel free to reach out!
