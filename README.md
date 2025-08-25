@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4OTV5MHVnMXE5NTJtbHFmZmtmNGM2bDJhM3FxZnQ2cmh1aHZoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2Q/giphy.gif" width="100%" alt="Developer Banner"/>
+  <img src="https://media.giphy.com/media/qgQUggACpCjo6jpI2Q/giphy.gif" width="100%" alt="Developer Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F46E5;">AZADIYAN</span></h1>
-<h3 align="center">💻 Full-Stack .NET Architect | Turning Ideas into Scalable Realities</h3>
+<h3 align="center">💻 Full-Stack .NET Architect | Building Scalable Digital Solutions</h3>
 
 <p align="center">
-  <a href="mailto:[ایمیل شما]" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:Dev@azadiyan.vip">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/[آیدی تلگرام شما]" target="_blank">
+  <a href="https://t.me/azadiyan_art" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
@@ -17,13 +17,13 @@
 ---
 
 ### 🚀 About Me
-- 🎯 **Strategic ENTJ** developer passionate about **Clean Architecture**, performance, and scalable systems.
-- 🌱 Always learning & exploring **modern .NET technologies** and **front-end innovations**.
-- 🤝 Open for collaboration on **Full-Stack projects**, **APIs**, and **enterprise-grade solutions**.
+- 🔍 **Strategic ENTJ** developer passionate about **Clean Architecture** and scalable solutions.
+- 🌱 Exploring modern **.NET technologies**, **microservices**, and **front-end innovations**.
+- 🤝 Open to collaborating on **Full-Stack projects**, **APIs**, and **enterprise-grade systems**.
 
 ---
 
-### 🛠 Tech Arsenal
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -38,20 +38,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[یوزرنیم]&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[یوزرنیم]&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AzadiyanDev&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AzadiyanDev&theme=tokyonight&hide_border=true" width="48%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[یوزرنیم]&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzadiyanDev&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:[ایمیل شما]"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/[آیدی شما]"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:Dev@azadiyan.vip"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/azadiyan_art"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[یوزرنیم]&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AzadiyanDev&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
