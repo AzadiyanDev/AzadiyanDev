@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACpCjo6jpI2Q/giphy.gif" width="100%" alt="Developer Banner"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmeWlzMzBhdDh3MG1rcW1jb2E1NHB5YTJlNXY5OTNrZ3NlaGdzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100%" alt="Developer Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F46E5;">AZADIYAN</span></h1>
