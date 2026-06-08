@@ -1,56 +1,41 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmeWlzMzBhdDh3MG1rcW1jb2E1NHB5YTJlNXY5OTNrZ3NlaGdzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100%" alt="Developer Banner"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:4F46E5,100:06B6D4&text=Alireza%20Azadiyan&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Senior%20Full-Stack%20.NET%20Developer%20%7C%20Clean%20Architecture%20%7C%20Enterprise%20Web%20Systems&descSize=16&descAlignY=58" alt="Alireza Azadiyan banner" width="100%" /> </p> <p align="center"> <a href="https://azadiyan.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-azadiyan.dev-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="mailto:ali@azadiyan.dev"> <img src="https://img.shields.io/badge/Email-ali%40azadiyan.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://t.me/azadiyan_art" target="_blank"> <img src="https://img.shields.io/badge/Telegram-azadiyan__art-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+scalable+.NET+systems;Clean+Architecture+%7C+RESTful+APIs+%7C+SQL+Server;From+requirements+to+production-ready+products" alt="Typing SVG" /> </p>
+About Me
+I am a Full-Stack Developer focused on .NET, ASP.NET Core, RESTful API design, and enterprise-grade software architecture.
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#4F46E5;">AZADIYAN</span></h1>
-<h3 align="center">💻 Full-Stack .NET Architect | Building Scalable Digital Solutions</h3>
+My strongest area is building large, service-oriented systems that stay maintainable as the product grows. Beyond coding, I have hands-on experience with requirement analysis, project management, technical leadership, mentoring junior developers, customer meetings, and turning business needs into production-ready software.
 
-<p align="center">
-  <a href="mailto:Dev@azadiyan.vip">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/azadiyan_art" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-- 🔍 **Strategic ENTJ** developer passionate about **Clean Architecture** and scalable solutions.
-- 🌱 Exploring modern **.NET technologies**, **microservices**, and **front-end innovations**.
-- 🤝 Open to collaborating on **Full-Stack projects**, **APIs**, and **enterprise-grade systems**.
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzadiyanDev&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:Dev@azadiyan.vip"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/azadiyan_art"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzadiyanDev&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+public sealed class AlirezaAzadiyan
+{
+    public string Role => "Senior Full-Stack Developer";
+    public string Focus => ".NET, ASP.NET Core, Clean Architecture";
+    public string Strength => "Building scalable, maintainable business systems";
+    public string Mindset => "Strategic, product-driven, and delivery-focused";
+}
+Snapshot
+<p align="center"> <img src="https://img.shields.io/badge/5%2B%20Years-Coding%20%26%20Product%20Development-22C55E?style=for-the-badge" alt="5+ years experience" /> <img src="https://img.shields.io/badge/40%2B-GitHub%20Repositories-181717?style=for-the-badge&logo=github" alt="40+ GitHub repositories" /> <img src="https://img.shields.io/badge/2.5%2B%20Years-Professional%20Company%20Work-6366F1?style=for-the-badge" alt="Professional company work" /> <img src="https://img.shields.io/badge/1%20Year-Programming%20Mentorship-F59E0B?style=for-the-badge" alt="Programming mentorship" /> </p>
+Backend-first full-stack developer with a strong focus on ASP.NET Core, SQL Server, and Clean Architecture.
+Comfortable owning the full product flow: analysis, design, implementation, testing, deployment, and support.
+Interested in architecture, technical leadership, service-oriented systems, developer tools, and real business impact.
+Tech Stack
+Backend & Architecture
+<p> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/RESTful%20APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs" /> <img src="https://img.shields.io/badge/Clean%20Architecture-4F46E5?style=flat-square" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/CQRS-0891B2?style=flat-square" alt="CQRS" /> <img src="https://img.shields.io/badge/MediatR-B91C1C?style=flat-square" alt="MediatR" /> <img src="https://img.shields.io/badge/DDD-7C3AED?style=flat-square" alt="DDD" /> </p>
+Database, Auth & Infrastructure
+<p> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" /> <img src="https://img.shields.io/badge/JWT%20Auth-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" /> <img src="https://img.shields.io/badge/HttpOnly%20Cookie-0F766E?style=flat-square" alt="HttpOnly Cookie" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </p>
+Frontend
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" /> <img src="https://img.shields.io/badge/Ajax-0F172A?style=flat-square" alt="Ajax" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> </p>
+Selected Work
+Project	What It Does	Stack
+JahanAra	Multi-currency banking, custody, loan, exchange, internal transaction, international transfer, and service-sales platform. Built solo in about 6 months with 611K+ lines of code.	.NET, Clean Architecture, SQL Server, Service-Oriented Design
+Dana Targeted Counter	Online service platform with admin-defined services, dynamic forms, pricing, payments, wallet, wallet transactions, subscriptions, discount codes, profiles, and file shop.	.NET, Form Builder, Wallet, Service Platform
+E-Commerce Backend	Clean Architecture REST API for an online shop with JWT authentication and a safer HttpOnly-cookie communication flow between frontend and backend.	.NET, REST API, JWT, HttpOnly Cookie, SQL Server
+API Studio	Custom Swagger UI alternative for authenticated API testing, body management, request history, TypeScript API-call generation, and validation helper generation.	TypeScript, API Client Generator, Auth, Developer Tooling
+Customer Club Systems	Customer-loyalty platforms with scoring, cashback, customer relationship management, and admin workflows for multiple client projects.	Loyalty Club, Cashback, Admin Panel
+What I Like Building
+Enterprise APIs that are easy to maintain, extend, and debug.
+Business platforms with real operational workflows, not just UI demos.
+Developer tools that remove repetitive work from frontend and backend teams.
+Systems where architecture, performance, and product value all matter.
+GitHub Analytics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AzadiyanDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzadiyanDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=AzadiyanDev&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzadiyanDev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" /> </p>
+Connect
+<p align="center"> <a href="https://azadiyan.dev" target="_blank"> <img src="https://img.shields.io/badge/Website-azadiyan.dev-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /> </a> <a href="mailto:ali@azadiyan.dev"> <img src="https://img.shields.io/badge/Email-ali%40azadiyan.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://t.me/azadiyan_art" target="_blank"> <img src="https://img.shields.io/badge/Telegram-azadiyan__art-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AzadiyanDev&color=06B6D4&style=flat-square" alt="Profile views" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,55:4F46E5,100:0F172A" alt="Footer" width="100%" /> </p>
